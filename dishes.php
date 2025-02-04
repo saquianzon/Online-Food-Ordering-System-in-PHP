@@ -175,7 +175,7 @@ foreach ($_SESSION["cart_item"] as $item)
 
                                 <div class="form-group row no-gutter">
                                     <div class="col-xs-8">
-                                        <input type="text" class="form-control b-r-0" value=<?php echo "$".$item["price"]; ?> readonly id="exampleSelect1">
+                                        <input type="text" class="form-control b-r-0" value=<?php echo "₱".$item["price"]; ?> readonly id="exampleSelect1">
 
                                     </div>
                                     <div class="col-xs-4">

@@ -268,7 +268,7 @@ for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@
                                                             <tr>
                                                                 <td><strong>Price:</strong></td>
                                                                 <td>
-                                                                    <center>$<?php echo $rows['price']; ?></center>
+                                                                    <center>₱<?php echo $rows['price']; ?></center>
                                                                 </td>
 
                                                                 <!-- /*!
