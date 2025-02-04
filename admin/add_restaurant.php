@@ -335,7 +335,7 @@ for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@
 
                                                         <div class="col-md-6">
                                                             <div class="form-group has-danger">
-                                                                <label class="control-label">Bussiness E-mail</label>
+                                                                <label class="control-label">Business E-mail</label>
                                                                 <input type="text" name="email" class="form-control form-control-danger">
                                                             </div>
                                                         </div>
