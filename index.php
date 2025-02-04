@@ -99,7 +99,7 @@ session_start();
     <section class="hero bg-image" data-image-src="images/img/Chicken.png">
         <div class="hero-inner">
             <div class="container text-center hero-text font-white">
-                <h1>Order Delivery & Take-Out </h1>
+                <h1>Dodoy's Grill House</h1>
 
                 <div class="banner-form">
                     <form class="form-inline">
