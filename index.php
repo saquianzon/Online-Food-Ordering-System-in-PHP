@@ -159,8 +159,8 @@ session_start();
     <section class="popular">
         <div class="container">
             <div class="title text-xs-center m-b-30">
-                <h2>Popular Dishes of the Month</h2>
-                <p class="lead">Easiest way to order your favourite food among these top 6 dishes</p>
+                <h2>Our Famous Dishes</h2>
+                <p class="lead">Featuring the famous Chicken Inasal and other Ilonggo delicacies with the true taste of Bacolod in every bite! Kaon nata!</p>
             </div>
             <div class="row">
                 <!--  Author Name: MH RONY.
@@ -254,7 +254,7 @@ session_start();
             </div>
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <p class="pay-info">Cash on Delivery</p>
+                    <p class="pay-info">We accept Cash, GCash and MOCASA payment methods</p>
                 </div>
             </div>
         </div>
