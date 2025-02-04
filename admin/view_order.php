@@ -74,7 +74,7 @@ for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@
                                 <div class="navbar-header">
                                     <a class="navbar-brand" href="dashboard.php">
 
-                                        <span><img src="images/icn.png" alt="homepage" class="dark-logo" /></span>
+                                        <span><img src="images/Dodoy's Grill Logo.png" alt="homepage" class="dark-logo" /></span>
                                     </a>
                                 </div>
                                 <div class="navbar-collapse">
