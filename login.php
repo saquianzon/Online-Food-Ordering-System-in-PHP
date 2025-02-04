@@ -85,7 +85,7 @@
             </div>
         </nav>
     </header>
-    <div style=" background-image: url('images/img/resto main.png');">
+    <div style=" background-image: url('images/img/Chicken.png');">
 
         <?php
 include("connection/connect.php"); 

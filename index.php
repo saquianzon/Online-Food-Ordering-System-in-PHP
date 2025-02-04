@@ -96,7 +96,7 @@ session_start();
                         for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
                         Visit My Website : developerrony.com -->
 
-    <section class="hero bg-image" data-image-src="images/img/resto main.png">
+    <section class="hero bg-image" data-image-src="images/img/Chicken.png">
         <div class="hero-inner">
             <div class="container text-center hero-text font-white">
                 <h1>Order Delivery & Take-Out </h1>

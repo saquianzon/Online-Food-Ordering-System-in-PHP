@@ -83,7 +83,7 @@ session_start();
                 </ul>
             </div>
         </div>
-        <div class="inner-page-hero bg-image" data-image-src="images/img/resto main.png">
+        <div class="inner-page-hero bg-image" data-image-src="images/img/Chicken.png">
             <div class="container"> </div>
         </div>
         <div class="result-show">
