@@ -63,22 +63,19 @@ CREATE TABLE `dishes` (
 --
 
 INSERT INTO `dishes` (`d_id`, `rs_id`, `title`, `slogan`, `price`, `img`) VALUES
-(1, 1, 'Yorkshire Lamb Patties', 'Lamb patties which melt in your mouth, and are quick and easy to make. Served hot with a crisp salad.', '14.00', '62908867a48e4.jpg'),
-(2, 1, 'Lobster Thermidor', 'Lobster Thermidor is a French dish of lobster meat cooked in a rich wine sauce, stuffed back into a lobster shell, and browned.', '36.00', '629089fee52b9.jpg'),
-(3, 4, 'Chicken Madeira', 'Chicken Madeira, like Chicken Marsala, is made with chicken, mushrooms, and a special fortified wine. But, the wines are different;', '23.00', '62908bdf2f581.jpg'),
-(4, 1, 'Stuffed Jacket Potatoes', 'Deep fry whole potatoes in oil for 8-10 minutes or coat each potato with little oil. Mix the onions, garlic, tomatoes and mushrooms. Add yoghurt, ginger, garlic, chillies, coriander', '8.00', '62908d393465b.jpg'),
-(5, 2, 'Pink Spaghetti Gamberoni', 'Spaghetti with prawns in a fresh tomato sauce. This dish originates from Southern Italy and with the combination of prawns, garlic, chilli and pasta. Garnish each with remaining tablespoon parsley.', '21.00', '606d7491a9d13.jpg'),
-(6, 2, 'Cheesy Mashed Potato', 'Deliciously Cheesy Mashed Potato. The ultimate mash for your Thanksgiving table or the perfect accompaniment to vegan sausage casserole. Everyone will love it\'s fluffy, cheesy.', '5.00', '606d74c416da5.jpg'),
-(7, 2, 'Crispy Chicken Strips', 'Fried chicken strips, served with special honey mustard sauce.', '8.00', '606d74f6ecbbb.jpg'),
-(8, 2, 'Lemon Grilled Chicken And Pasta', 'Marinated rosemary grilled chicken breast served with mashed potatoes and your choice of pasta.', '11.00', '606d752a209c3.jpg'),
-(9, 3, 'Vegetable Fried Rice', 'Chinese rice wok with cabbage, beans, carrots, and spring onions.', '5.00', '606d7575798fb.jpg'),
-(10, 3, 'Prawn Crackers', '12 pieces deep-fried prawn crackers', '7.00', '606d75a7e21ec.jpg'),
-(11, 3, 'Spring Rolls', 'Lightly seasoned shredded cabbage, onion and carrots, wrapped in house made spring roll wrappers, deep fried to golden brown.', '6.00', '606d75ce105d0.jpg'),
-(12, 3, 'Manchurian Chicken', 'Chicken pieces slow cooked with spring onions in our house made manchurian style sauce.', '11.00', '606d7600dc54c.jpg'),
-(13, 4, ' Buffalo Wings', 'Fried chicken wings tossed in spicy Buffalo sauce served with crisp celery sticks and Blue cheese dip.', '11.00', '606d765f69a19.jpg'),
-(14, 4, 'Mac N Cheese Bites', 'Served with our traditional spicy queso and marinara sauce.', '9.00', '606d768a1b2a1.jpg'),
-(15, 4, 'Signature Potato Twisters', 'Spiral sliced potatoes, topped with our traditional spicy queso, Monterey Jack cheese, pico de gallo, sour cream and fresh cilantro.', '6.00', '606d76ad0c0cb.jpg'),
-(16, 4, 'Meatballs Penne Pasta', 'Garlic-herb beef meatballs tossed in our house-made marinara sauce and penne pasta topped with fresh parsley.', '10.00', '606d76eedbb99.jpg');
+(1, 1, 'Chikn Pecho (breast)', 'Pecho chicken inasal is a popular Filipino dish featuring marinated chicken breast (pecho) grilled over hot coals.', '129.00', 'pecho.jpg'),
+(2, 1, 'Chikn Paa (leg and thigh)', 'Paa chicken inasal is grilled, marinated chicken leg flavored with a savory mix of vinegar, calamansi, lemongrass, garlic, ginger, and annatto oil.', '119.00', 'paa.jpg'),
+(3, 1, 'Pork BBQ', 'Filipino pork BBQ is a popular street food made of marinated pork slices skewered on bamboo sticks and grilled over charcoal.', '40.00', 'bbq.jpg'),
+(4, 1, 'Bangus Whole', 'Bangus, or milkfish, is a staple in Filipino cuisine, prepared in various ways. It is known for its mild and sweet flavor, served with rice and a vinegar-based dipping sauce.', '210.00', 'bangus.jpg'),
+(5, 1, 'Laswa', 'Laswa is a healthy and light Filipino vegetable soup from the Visayas region. The dish is simple, nutritious, and naturally sweet from the vegetables, often enjoyed with rice.', '79.00', 'laswa.jpg'),
+(6, 1, 'Batchoy Special', 'Batchoy is a rich and flavorful Filipino noodle soup from Iloilo. It features miki noodles in a savory pork or beef broth, topped with pork slices, liver and chicharon. ', '109.00', 'batchoy.jpg'),
+(7, 2, 'Pecho (breast)', 'Pecho chicken inasal is a popular Filipino dish featuring marinated chicken breast (pecho) grilled over hot coals.', '139.00', 'pecho.jpg'),
+(8, 2, 'Paa (leg and thigh)', 'Paa chicken inasal is grilled, marinated chicken leg flavored with a savory mix of vinegar, calamansi, lemongrass, garlic, ginger, and annatto oil.', '129.00', 'paa.jpg'),
+(9, 2, 'Chicken Sisig', 'Chicken sisig is a Filipino dish made from chopped grilled or fried chicken, seasoned with onions, chili, calamansi, and mayonnaise.', '129.00', 'sisig.jpg'),
+(10, 2, 'Pakpak', 'Pakpak Inasal is a Filipino grilled chicken wing dish, marinated in a flavorful mix of calamansi, garlic, vinegar, annatto oil, and spices.', '120.00', 'pakpak.jpg'),
+(11, 2, 'Isol', 'Isol is a popular Filipino street food consisting of grilled chicken butt or tail.', '70.00', 'isol.jpg'),
+(12, 2, 'Atay', 'Atay is a Filipino dish made from chicken or pork liver, often grilled, stir-fried, or cooked in a savory-sweet sauce.', '75.00', 'atay.jpg'),
+(13, 2, 'Baticolon', 'Baticolon is a Filipino dish made from chicken gizzard, often marinated in soy sauce, calamansi, and spices before being grilled (inasal) or fried.', '55.00', 'baticolon.jpg');
 
 -- --------------------------------------------------------
 
@@ -122,8 +119,6 @@ CREATE TABLE `restaurant` (
 INSERT INTO `restaurant` (`rs_id`, `c_id`, `title`, `email`, `phone`, `url`, `o_hr`, `c_hr`, `o_days`, `address`, `image`, `date`) VALUES
 (1, 1, 'Dodoys Grill House', 'dodoysgrill@gmail.com', '0977039160', 'https://www.facebook.com/dodoysgrill', '11am', '10pm', 'mon-sat', '245 P. Ocampo Ave., Corner Primo Rivera St., Brgy. Lapaz, Makati, Philippines', 'Dodoys Grill House.jpg', '2025-02-05 12:48:35'),
 (2, 2, 'Ilongga Bacolod Chicken Inasal House', 'Hiranimohit2020@gmail.com', '09912095031', 'https://www.facebook.com/profile.php?id=100083632417107', '11am', '11pm', 'mon-sat', 'Angel Pharmacy, Espina Compound, V. Rama Avenue, Guadalupe, Cebu City, Philippines', 'Ilongga Chicken Inasal.jpg', '2025-02-05 12:51:41'),
-(3, 3, 'Nan Xiang Xiao Long Bao', 'nanxiangbao45@mail.com', '1458745855', 'www.nanxiangbao45.com', '9am', '8pm', 'mon-sat', 'Queens, New York', '6290860e72d1e.jpg', '2022-05-27 08:04:30'),
-(4, 4, 'Highlands Bar & Grill', 'hbg@mail.com', '6545687458', 'www.hbg.com', '7am', '8pm', 'mon-sat', '812 Walter Street', '6290af6f81887.jpg', '2022-05-27 11:01:03');
 
 -- --------------------------------------------------------
 
@@ -142,10 +137,8 @@ CREATE TABLE `res_category` (
 --
 
 INSERT INTO `res_category` (`c_id`, `c_name`, `date`) VALUES
-(1, 'Continental', '2022-05-27 08:07:35'),
-(2, 'Italian', '2021-04-07 08:45:23'),
-(3, 'Chinese', '2021-04-07 08:45:25'),
-(4, 'American', '2021-04-07 08:45:28');
+(1, 'Makati', '2025-02-05 03:08:35'),
+(2, 'Cebu', '2025-02-05 03:08:23');
 
 -- --------------------------------------------------------
 
