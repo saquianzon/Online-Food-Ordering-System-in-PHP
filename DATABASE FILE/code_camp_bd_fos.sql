@@ -118,7 +118,7 @@ CREATE TABLE `restaurant` (
 
 INSERT INTO `restaurant` (`rs_id`, `c_id`, `title`, `email`, `phone`, `url`, `o_hr`, `c_hr`, `o_days`, `address`, `image`, `date`) VALUES
 (1, 1, 'Dodoys Grill House', 'dodoysgrill@gmail.com', '0977039160', 'https://www.facebook.com/dodoysgrill', '11am', '10pm', 'mon-sat', '245 P. Ocampo Ave., Corner Primo Rivera St., Brgy. Lapaz, Makati, Philippines', 'Dodoys Grill House.jpg', '2025-02-05 12:48:35'),
-(2, 2, 'Ilongga Bacolod Chicken Inasal House', 'Hiranimohit2020@gmail.com', '09912095031', 'https://www.facebook.com/profile.php?id=100083632417107', '11am', '11pm', 'mon-sat', 'Angel Pharmacy, Espina Compound, V. Rama Avenue, Guadalupe, Cebu City, Philippines', 'Ilongga Chicken Inasal.jpg', '2025-02-05 12:51:41'),
+(2, 2, 'Ilongga Bacolod Chicken Inasal House', 'Hiranimohit2020@gmail.com', '09912095031', 'https://www.facebook.com/profile.php?id=100083632417107', '11am', '11pm', 'mon-sat', 'Angel Pharmacy, Espina Compound, V. Rama Avenue, Guadalupe, Cebu City, Philippines', 'Ilongga Chicken Inasal.jpg', '2025-02-05 12:51:41');
 
 -- --------------------------------------------------------
 
