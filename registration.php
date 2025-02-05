@@ -4,7 +4,7 @@
                         Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
                         Visit My Website : developerrony.com -->
-<!DOCTYPE html>
+                        <!DOCTYPE html>
 <html lang="en">
 <?php
 
@@ -107,12 +107,12 @@ if(isset($_POST['submit'] ))
                         for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
                         Visit My Website : developerrony.com -->
 
-    <div style=" background-image: url('images/img/Chicken.png');">
+    <div style=" background-image: url('images/img/pimg.jpg');">
         <header id="header" class="header-scroll top-header headrom">
             <nav class="navbar navbar-dark">
                 <div class="container">
                     <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#mainNavbarCollapse">&#9776;</button>
-                    <a class="navbar-brand" href="index.php"> <img class="img-rounded" src="images/Dodoy's Grill Logo.png" alt="" width="18%"> </a>
+                    <a class="navbar-brand" href="index.php"> <img class="img-rounded" src="images/logo.png" alt="" width="18%"> </a>
                     <div class="collapse navbar-toggleable-md  float-lg-right" id="mainNavbarCollapse">
                         <ul class="nav navbar-nav">
                             <li class="nav-item"> <a class="nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a> </li>
