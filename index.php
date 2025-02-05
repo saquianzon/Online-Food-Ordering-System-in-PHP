@@ -26,7 +26,7 @@ session_start();
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="#">
-    <title>Home || Dodoy's Grill House</title>
+    <title>Home</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/animsition.min.css" rel="stylesheet">
@@ -254,7 +254,7 @@ session_start();
             </div>
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <p class="pay-info">We accept Cash, GCash and MOCASA payment methods</p>
+                    <p class="pay-info">We accept Cash and GCash payment methods</p>
                 </div>
             </div>
         </div>

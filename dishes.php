@@ -364,7 +364,7 @@ $item_total += ($item["price"]*$item["quantity"]);
                         Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
                         Visit My Website : developerrony.com -->
-                            <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">₱ 2.99</span></div>
+                            <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">$ 2.99</span></div>
                             <div class="col-xs-6 col-sm-4 col-lg-4">
                                 <div class="row no-gutter">
                                     <div class="col-xs-7">
@@ -401,7 +401,7 @@ $item_total += ($item["price"]*$item["quantity"]);
                         Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
                         Visit My Website : developerrony.com -->
-                            <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">₱ 2.49</span></div>
+                            <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">$ 2.49</span></div>
                             <div class="col-xs-6 col-sm-4 col-lg-4">
                                 <div class="row no-gutter">
                                     <div class="col-xs-7">
@@ -438,7 +438,7 @@ $item_total += ($item["price"]*$item["quantity"]);
                         Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
                         Visit My Website : developerrony.com -->
-                            <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">₱ 1.99</span></div>
+                            <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">$ 1.99</span></div>
                             <div class="col-xs-6 col-sm-4 col-lg-4">
                                 <div class="row no-gutter">
                                     <div class="col-xs-7">
@@ -475,7 +475,7 @@ $item_total += ($item["price"]*$item["quantity"]);
                         Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
                         Visit My Website : developerrony.com -->
-                            <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">₱ 3.15</span></div>
+                            <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">$ 3.15</span></div>
                             <div class="col-xs-6 col-sm-4 col-lg-4">
                                 <div class="row no-gutter">
                                     <div class="col-xs-7">
