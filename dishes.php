@@ -98,7 +98,7 @@ include_once 'product-action.php';
 									     $rows=mysqli_fetch_array($ress);
 										  
 										  ?>
-        <section class="inner-page-hero bg-image" data-image-src="images/img/restrrr.png">
+        <section class="inner-page-hero bg-image" data-image-src="images/img/bacolod.jpg">
             <div class="profile">
                 <div class="container">
                     <div class="row">
