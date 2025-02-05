@@ -120,8 +120,8 @@ CREATE TABLE `restaurant` (
 --
 
 INSERT INTO `restaurant` (`rs_id`, `c_id`, `title`, `email`, `phone`, `url`, `o_hr`, `c_hr`, `o_days`, `address`, `image`, `date`) VALUES
-(1, 1, 'Dodoys Grill House', 'dodoysgrill@gmail.com', '0977039160', 'https://www.facebook.com/dodoysgrill', '11am', '10pm', 'mon-sat', '245 P.ocampo Ave., Corner Primo Rivera St., Brgy. Lapaz, Makati, Philippines', 'Dodoy's Grill House.jpg', '2025-02-05 12:48:35'),
-(2, 2, 'Ilongga Bacolod Chicken Inasal House', 'Hiranimohit2020@gmail.com', '09912095031', 'https://www.facebook.com/profile.php?id=100083632417107', '11am', '11pm', 'Mon-sat', 'Angel Pharmacy, Espina Compund, V. Rama Avenue, Guadalupe, Cebu City, Philippines', 'Ilongga Chicken Inasal.jpg', '2025-02-05 12:51:41'),
+(1, 1, 'Dodoys Grill House', 'dodoysgrill@gmail.com', '0977039160', 'https://www.facebook.com/dodoysgrill', '11am', '10pm', 'mon-sat', '245 P. Ocampo Ave., Corner Primo Rivera St., Brgy. Lapaz, Makati, Philippines', 'Dodoys Grill House.jpg', '2025-02-05 12:48:35'),
+(2, 2, 'Ilongga Bacolod Chicken Inasal House', 'Hiranimohit2020@gmail.com', '09912095031', 'https://www.facebook.com/profile.php?id=100083632417107', '11am', '11pm', 'mon-sat', 'Angel Pharmacy, Espina Compound, V. Rama Avenue, Guadalupe, Cebu City, Philippines', 'Ilongga Chicken Inasal.jpg', '2025-02-05 12:51:41'),
 (3, 3, 'Nan Xiang Xiao Long Bao', 'nanxiangbao45@mail.com', '1458745855', 'www.nanxiangbao45.com', '9am', '8pm', 'mon-sat', 'Queens, New York', '6290860e72d1e.jpg', '2022-05-27 08:04:30'),
 (4, 4, 'Highlands Bar & Grill', 'hbg@mail.com', '6545687458', 'www.hbg.com', '7am', '8pm', 'mon-sat', '812 Walter Street', '6290af6f81887.jpg', '2022-05-27 11:01:03');
 
